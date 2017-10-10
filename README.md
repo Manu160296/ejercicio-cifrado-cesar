@@ -30,7 +30,7 @@ newPosition = vacío;
 * ***retornar*** newString **fin**   
 
 
-***NOMBRE DEL SEGUNDO  PROCESO: decipher***
+***NOMBRE DEL TERCER  PROCESO: estructuración del programa***
 
 ***VARIABLES : newPosition,newString***
 
@@ -49,9 +49,9 @@ newPosition = vacío;
 * ***retornar*** newString **fin**   
 
 
-***NOMBRE DEL SEGUNDO  PROCESO: decipher***
+***NOMBRE DEL TERCER  PROCESO: estructurado del programa***
 
-***VARIABLES :menu, string , secondString***  
+***VARIABLES :menu, string , secondString,option***  
 
 ***HACER:***     
 menu="Cifrado Cesar ***salto de línea*** 1.Cifrar ***salto de línea*** 2.Descifrar ***salto de línea*** ";   
