@@ -30,7 +30,7 @@ newPosition = vacío;
 * ***retornar*** newString **fin**   
 
 
-***NOMBRE DEL TERCER  PROCESO: estructuración del programa***
+***NOMBRE DEL SEGUNDO PROCESO: decipher***
 
 ***VARIABLES : newPosition,newString***
 
